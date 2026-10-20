@@ -8,3 +8,9 @@ context/
 .vscode/
 thesis_structure.md
 CLAUDE.md
+tasks/
+scripts/
+docs/
+.claude/
+abstract.docx
+/results
