@@ -1,0 +1,10 @@
+.env
+.venv/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+data/
+tesi/
+context/
+.vscode/
+thesis_structure.md
+CLAUDE.md
